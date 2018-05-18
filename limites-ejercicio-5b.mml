@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <munder>
+       <mi>lim</mi>
+       <mrow>
+        <mi>x</mi>
+        <mo stretchy="false">−</mo>
+        <mn>0</mn>
+       </mrow>
+      </munder>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>3</mn>
+        </mrow>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">sustituyendo</mi>
+      <mi mathvariant="italic">por</mi>
+      <mn>0</mn>
+      <mi mathvariant="italic">queda</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mrow>
+          <mn>0</mn>
+          <mo stretchy="false">+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+         <mo stretchy="false">−</mo>
+         <mn>3</mn>
+        </mrow>
+       </mrow>
+      </mfrac>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mn>1</mn>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mo stretchy="false">−</mo>
+        <mn>3</mn>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mi mathvariant="italic">entonces</mi>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>0</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msqrt>
+         <mo stretchy="false">−</mo>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>3</mn>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mn>1</mn>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mo stretchy="false">−</mo>
+        <mn>3</mn>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">pero</mi>
+      <mi mathvariant="italic">la</mi>
+      <mi mathvariant="italic">solución</mi>
+      <mi mathvariant="italic">es</mi>
+      <mfrac>
+       <mrow>
+        <mrow>
+         <mo stretchy="false">−</mo>
+         <msqrt>
+          <mn>1</mn>
+         </msqrt>
+        </mrow>
+        <mo stretchy="false">+</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mn>3</mn>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">en</mi>
+      <mi mathvariant="italic">realidad</mi>
+      <mi mathvariant="italic">dan</mi>
+      <mi mathvariant="italic">lo</mi>
+      <mi mathvariant="italic">mismo</mi>
+      <mi>.</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+  <annotation encoding="StarMath 5.0">lim from{x-0} { {sqrt{x+1}-sqrt{2} } over { 3x -3} }
+newline newline
+sustituyendo por 0 queda
+newline newline
+{ {sqrt{0+1}-sqrt{2} } over { 3(0) -3} }={ {sqrt{1}-sqrt{2} } over { -3} }
+newline newline
+entonces
+newline newline
+lim from{x-0} { {sqrt{x+1}-sqrt{2} } over { 3x -3} } = { {sqrt{1}-sqrt{2} } over { -3} }
+newline newline
+pero la solución es 
+{ {-sqrt{1}+sqrt{2} } over { 3} }
+
+newline newline
+en realidad dan lo mismo.</annotation>
+ </semantics>
+</math>

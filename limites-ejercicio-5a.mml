@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <munder>
+       <mi>lim</mi>
+       <mrow>
+        <mi>x</mi>
+        <mo stretchy="false">−</mo>
+        <mn>1</mn>
+       </mrow>
+      </munder>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>3</mn>
+        </mrow>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">sustituyendo</mi>
+      <mi>x</mi>
+      <mi mathvariant="italic">por</mi>
+      <mn>0</mn>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msqrt>
+         <mo stretchy="false">−</mo>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>3</mn>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mrow>
+          <mn>1</mn>
+          <mo stretchy="false">+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mn>1</mn>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+         <mo stretchy="false">−</mo>
+         <mn>3</mn>
+        </mrow>
+       </mrow>
+      </mfrac>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mrow>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+        <mo stretchy="false">−</mo>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+       <mrow>
+        <mn>3</mn>
+        <mo stretchy="false">−</mo>
+        <mn>3</mn>
+       </mrow>
+      </mfrac>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mn>0</mn>
+       <mn>0</mn>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">indeterminación</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo stretchy="false">/</mo>
+       <mn>0</mn>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">hay</mi>
+      <mi mathvariant="italic">que</mi>
+      <mi mathvariant="italic">reescribir</mi>
+      <mi mathvariant="italic">la</mi>
+      <mi mathvariant="italic">función</mi>
+      <mn>.</mn>
+      <mi mathvariant="italic">Racionalizando</mi>
+      <mi mathvariant="italic">denominadores</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msqrt>
+         <mo stretchy="false">−</mo>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>3</mn>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow>
+       <mrow>
+        <munder>
+         <mi>lim</mi>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>1</mn>
+         </mrow>
+        </munder>
+        <mfrac>
+         <mrow>
+          <msqrt>
+           <mrow>
+            <mi>x</mi>
+            <mo stretchy="false">+</mo>
+            <mn>1</mn>
+           </mrow>
+          </msqrt>
+          <mo stretchy="false">−</mo>
+          <msqrt>
+           <mn>2</mn>
+          </msqrt>
+         </mrow>
+         <mrow>
+          <mn>3</mn>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">−</mo>
+           <mn>3</mn>
+          </mrow>
+         </mrow>
+        </mfrac>
+       </mrow>
+       <mo stretchy="false">∗</mo>
+       <mfrac>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msqrt>
+         <mo stretchy="false">+</mo>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msqrt>
+         <mo stretchy="false">+</mo>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">por</mi>
+      <mi mathvariant="italic">diferencia</mi>
+      <mi mathvariant="italic">de</mi>
+      <mi mathvariant="italic">cuadrados</mi>
+      <mi mathvariant="italic">queda</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mrow>
+            <mi>x</mi>
+            <mo stretchy="false">+</mo>
+            <mn>1</mn>
+           </mrow>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+         <mo stretchy="false">−</mo>
+         <mn>2</mn>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>3</mn>
+         </mrow>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mrow>
+            <msqrt>
+             <mrow>
+              <mi>x</mi>
+              <mo stretchy="false">+</mo>
+              <mn>1</mn>
+             </mrow>
+            </msqrt>
+            <mo stretchy="false">+</mo>
+            <msqrt>
+             <mn>2</mn>
+            </msqrt>
+           </mrow>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>3</mn>
+         </mrow>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mrow>
+            <msqrt>
+             <mrow>
+              <mi>x</mi>
+              <mo stretchy="false">+</mo>
+              <mn>1</mn>
+             </mrow>
+            </msqrt>
+            <mo stretchy="false">+</mo>
+            <msqrt>
+             <mn>2</mn>
+            </msqrt>
+           </mrow>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">sacando</mi>
+      <mi mathvariant="italic">factor</mi>
+      <mi mathvariant="italic">común</mi>
+      <mn>3</mn>
+      <mi mathvariant="italic">de</mi>
+      <mn>3</mn>
+      <mrow>
+       <mi>x</mi>
+       <mo stretchy="false">−</mo>
+       <mn>3</mn>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mrow>
+            <mi>x</mi>
+            <mo stretchy="false">−</mo>
+            <mn>1</mn>
+           </mrow>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mrow>
+            <msqrt>
+             <mrow>
+              <mi>x</mi>
+              <mo stretchy="false">+</mo>
+              <mn>1</mn>
+             </mrow>
+            </msqrt>
+            <mo stretchy="false">+</mo>
+            <msqrt>
+             <mn>2</mn>
+            </msqrt>
+           </mrow>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mn>1</mn>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mo fence="true" stretchy="false">(</mo>
+          <mrow>
+           <mrow>
+            <msqrt>
+             <mrow>
+              <mi>x</mi>
+              <mo stretchy="false">+</mo>
+              <mn>1</mn>
+             </mrow>
+            </msqrt>
+            <mo stretchy="false">+</mo>
+            <msqrt>
+             <mn>2</mn>
+            </msqrt>
+           </mrow>
+          </mrow>
+          <mo fence="true" stretchy="false">)</mo>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mo fence="true" stretchy="false">(</mo>
+         <mrow>
+          <mrow>
+           <msqrt>
+            <mrow>
+             <mn>1</mn>
+             <mo stretchy="false">+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msqrt>
+           <mo stretchy="false">+</mo>
+           <msqrt>
+            <mn>2</mn>
+           </msqrt>
+          </mrow>
+         </mrow>
+         <mo fence="true" stretchy="false">)</mo>
+        </mrow>
+       </mrow>
+      </mfrac>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mo fence="true" stretchy="false">(</mo>
+         <mrow>
+          <mrow>
+           <msqrt>
+            <mn>2</mn>
+           </msqrt>
+           <mo stretchy="false">+</mo>
+           <msqrt>
+            <mn>2</mn>
+           </msqrt>
+          </mrow>
+         </mrow>
+         <mo fence="true" stretchy="false">)</mo>
+        </mrow>
+       </mrow>
+      </mfrac>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mn>3</mn>
+        <mrow>
+         <mo fence="true" stretchy="false">(</mo>
+         <mrow>
+          <mrow>
+           <mn>2</mn>
+           <msqrt>
+            <mn>2</mn>
+           </msqrt>
+          </mrow>
+         </mrow>
+         <mo fence="true" stretchy="false">)</mo>
+        </mrow>
+       </mrow>
+      </mfrac>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mn>6</mn>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mi mathvariant="italic">entonces</mi>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <munder>
+        <mi>lim</mi>
+        <mrow>
+         <mi>x</mi>
+         <mo stretchy="false">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </munder>
+       <mfrac>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <mi>x</mi>
+           <mo stretchy="false">+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msqrt>
+         <mo stretchy="false">−</mo>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+        <mrow>
+         <mn>3</mn>
+         <mrow>
+          <mi>x</mi>
+          <mo stretchy="false">−</mo>
+          <mn>3</mn>
+         </mrow>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mn>6</mn>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">pero</mi>
+      <mi mathvariant="italic">en</mi>
+      <mi mathvariant="italic">la</mi>
+      <mi mathvariant="italic">respuesta</mi>
+      <mi mathvariant="italic">es</mi>
+      <mfrac>
+       <msqrt>
+        <mn>2</mn>
+       </msqrt>
+       <mn>12</mn>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="italic">ya</mi>
+      <mi mathvariant="italic">entendí</mi>
+      <mi mathvariant="italic">lo</mi>
+      <mi mathvariant="italic">que</mi>
+      <mi mathvariant="italic">hizo</mi>
+      <mi mathvariant="normal">:</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mfrac>
+        <mn>1</mn>
+        <mrow>
+         <mn>6</mn>
+         <msqrt>
+          <mn>2</mn>
+         </msqrt>
+        </mrow>
+       </mfrac>
+       <mo stretchy="false">∗</mo>
+       <mfrac>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+        <msqrt>
+         <mn>2</mn>
+        </msqrt>
+       </mfrac>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <msqrt>
+        <mn>2</mn>
+       </msqrt>
+       <mn>12</mn>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+  <annotation encoding="StarMath 5.0">lim from{x-1}{{ { sqrt{x+1}-sqrt{2} } over {3x-3  } } } newline newline
+sustituyendo x por 0
+ newline newline
+ lim from{x-1}{{ { sqrt{x+1}-sqrt{2} } over {3x-3  } } } = { { sqrt{1+1}-sqrt{2} } over {3(1)-3 } }
+ = { { sqrt{2}-sqrt{2} } over {3-3 } } = { {0}over{0} } newline newline
+indeterminación 0/0 newline newline
+hay que reescribir la función. Racionalizando   denominadores newline newline
+lim from{x-1}{{ { sqrt{x+1}-sqrt{2} } over {3x-3  } } } 
+ = lim from{x-1}{{ { sqrt{x+1}-sqrt{2} } over {3x-3  } } } * {{ sqrt{x+1}+sqrt{2} } over { sqrt{x+1}+sqrt{2} }}newline newline
+ por diferencia de cuadrados  queda  newline newline
+ lim from{x-1}{{ { (x+1)-2 } over {3x-3 ({ sqrt{x+1}+sqrt{2} }) } } }=
+ lim from{x-1}{{ { x-1 } over {3x-3 ({ sqrt{x+1}+sqrt{2} }) } } } newline newline
+ sacando factor común 3 de 3x-3 newline newline
+ lim from{x-1}{{ { x-1 } over {3(x-1) ({ sqrt{x+1}+sqrt{2} }) } } } =  lim from{x-1}{{ { 1 } over {3({ sqrt{x+1}+sqrt{2} }) } } } = {{1} over {3({ sqrt{1+1}+sqrt{2} }) }} = {{1} over {3({ sqrt{2}+sqrt{2} }) }} = {{1} over {3(2{ sqrt{2}}) }}  = {{1} over {6{ sqrt{2}} }}
+ newline newline
+ entonces
+ newline newline
+ lim from{x-1}{{ { sqrt{x+1}-sqrt{2} } over {3x-3  } } } = {{1} over {6{ sqrt{2}} }}
+ newline newline
+ pero en la respuesta es  {{{sqrt{2}}} over{12} }
+ newline newline
+ ya entendí lo que hizo:
+ newline newline
+ {{1} over {6{ sqrt{2}} }} * {{ sqrt{2} } over { sqrt{2}} } = {{{sqrt{2}}} over{12} }
+ 
+ 
+
+</annotation>
+ </semantics>
+</math>

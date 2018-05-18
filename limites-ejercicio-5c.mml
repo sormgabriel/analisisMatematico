@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <munder>
+    <mi>lim</mi>
+    <mrow>
+     <mi>x</mi>
+     <mrow>
+      <mo stretchy="false">→</mo>
+      <mo stretchy="false">−</mo>
+      <mn>1</mn>
+     </mrow>
+    </mrow>
+   </munder>
+   <mi mathvariant="normal">❑</mi>
+  </mrow>
+  <annotation encoding="StarMath 5.0">lim from{x rightarrow  -1} &lt;?&gt; </annotation>
+ </semantics>
+</math>
