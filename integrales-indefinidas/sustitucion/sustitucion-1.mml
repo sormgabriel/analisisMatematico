@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mo stretchy="false">∫</mo>
+       <mn>5</mn>
+      </mrow>
+      <msup>
+       <mi>x</mi>
+       <mrow>
+        <mo stretchy="false">−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <msup>
+       <mrow>
+        <mo fence="true" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mi>ln</mi>
+          <mi>x</mi>
+         </mrow>
+        </mrow>
+        <mo fence="true" stretchy="false">)</mo>
+       </mrow>
+       <mn>4</mn>
+      </msup>
+      <mi mathvariant="italic">dx</mi>
+      <mrow>
+       <mspace width="2em"/>
+       <mo stretchy="false">=</mo>
+       <mspace width="2em"/>
+      </mrow>
+      <mn>5</mn>
+      <mrow>
+       <mo stretchy="false">∫</mo>
+       <mrow>
+        <mo fence="true" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mn>1</mn>
+          <mo stretchy="false">/</mo>
+          <mi>x</mi>
+         </mrow>
+        </mrow>
+        <mo fence="true" stretchy="false">)</mo>
+       </mrow>
+      </mrow>
+      <msup>
+       <mrow>
+        <mo fence="true" stretchy="false">(</mo>
+        <mrow>
+         <mi>ln</mi>
+        </mrow>
+        <mo fence="true" stretchy="false">)</mo>
+       </mrow>
+       <mn>4</mn>
+      </msup>
+      <mi mathvariant="italic">dx</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mn>5</mn>
+      <mrow>
+       <mo stretchy="false">∫</mo>
+       <msup>
+        <mi>u</mi>
+        <mn>4</mn>
+       </msup>
+      </mrow>
+      <mi mathvariant="italic">du</mi>
+      <mrow>
+       <mspace width="2em"/>
+       <mo stretchy="false">=</mo>
+       <mspace width="2em"/>
+      </mrow>
+      <mrow>
+       <mo fence="true" stretchy="false">(</mo>
+       <mrow>
+        <mrow>
+         <mn>5</mn>
+         <mo stretchy="false">/</mo>
+         <mn>5</mn>
+        </mrow>
+       </mrow>
+       <mo fence="true" stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <msup>
+        <mrow>
+         <mo fence="true" stretchy="false">(</mo>
+         <mrow>
+          <mi mathvariant="italic">lnx</mi>
+         </mrow>
+         <mo fence="true" stretchy="false">)</mo>
+        </mrow>
+        <mn>5</mn>
+       </msup>
+       <mo stretchy="false">+</mo>
+       <mi>C</mi>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <msup>
+       <mrow>
+        <mo fence="true" stretchy="false">(</mo>
+        <mrow>
+         <mi mathvariant="italic">lnx</mi>
+        </mrow>
+        <mo fence="true" stretchy="false">)</mo>
+       </mrow>
+       <mn>5</mn>
+      </msup>
+      <mo stretchy="false">+</mo>
+      <mi>C</mi>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+  <annotation encoding="StarMath 5.0">int 5x^{-1}( ln x )^4 dx ~=~ 5int (1 / x)( ln )^4 dx  
+newline
+5int u^4 du ~ = ~ (5/5)( lnx )^5 +C
+newline
+(lnx)^5 + C
+
+</annotation>
+ </semantics>
+</math>
